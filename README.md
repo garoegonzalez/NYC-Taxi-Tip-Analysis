@@ -10,3 +10,5 @@ The analysis is divided in 3 sections:
 1. Cleaning and exploration. 
 2. Data summary 
 3. Model and predictions
+
+![](images/Analysis_overview.png)
